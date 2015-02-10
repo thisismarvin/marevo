@@ -1,30 +1,39 @@
 # Features to be implemented in version 1.0:
 
-* Modularity
-* GUI
-* ECTS distribution according to the official documentation
-* Configuration file
-* AUTHORS file
-* BSD License
-* Logging system
-* Setting up limits for F and FX ranges
-* Working with buffer
-* Working with marks, distributions and deviations
-* Showing deviations by algorithms
-* Configuring the "National ECTS" ranging
+1.  Modularity
+2.  GUI
+3.  ECTS distribution according to the official documentation
+4.  Configuration file
+5.  AUTHORS file
+6.  BSD License
+7.  Logging system
+8.  Setting up limits for F and FX ranges
+9.  Working with buffer
+10. Working with marks, distributions and deviations
+11. Showing deviations by algorithms
+12. Configuring the "National ECTS" ranging
 
 # Features planned in version 1.1:
 
-* Authentification system
-* Updating system
-* Auto-updating
-* Database support for collecting marks
-* Multilingual support
-* Import/export ws Excel, CSV, PDF, TXT, etc
+1. Authentification system
+2. Updating system
+3. Auto-updating
+4. Database support for collecting marks
+5. Multilingual support
+6. Import/export ws Excel, CSV, PDF, TXT, etc
 
 # Features planned later:
 
 * Loading data from network (JSON, probably)
 * Web interface
 * Hosting
+
+
+To implement any of feature, please create a branch:
+
+Example: v1.0/1
+         v1.1/4
+
+This branch should be derived from 'mk_core' branch.
+
 
