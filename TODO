@@ -1,0 +1,30 @@
+# Features to be implemented in version 1.0:
+
+* Modularity
+* GUI
+* ECTS distribution according to the official documentation
+* Configuration file
+* AUTHORS file
+* BSD License
+* Logging system
+* Setting up limits for F and FX ranges
+* Working with buffer
+* Working with marks, distributions and deviations
+* Showing deviations by algorithms
+* Configuring the "National ECTS" ranging
+
+# Features planned in version 1.1:
+
+* Authentification system
+* Updating system
+* Auto-updating
+* Database support for collecting marks
+* Multilingual support
+* Import/export ws Excel, CSV, PDF, TXT, etc
+
+# Features planned later:
+
+* Loading data from network (JSON, probably)
+* Web interface
+* Hosting
+

@@ -1,0 +1,82 @@
+# THE MAREVO PROJECT
+
+## ABOUT BOLOGNA PROCESS AND ECTS IN UKRAINE
+
+A couple of years have passed since Ukraine had started to implement the ECTS
+and the Bologna Process in the national education. There's not a news that it
+went down from the beginning, as some of the most important rules declared by
+ECTS had not been implemented. The first problem is that Ukrainian educational
+institutions did not migrate to the ECTS-marking (with dynamic ranging, etc)
+but just joined the 5-mark national system (or even 12-mark own systems) with
+the new 100-mark system and set up the ranges for lettered marks (A from 91 to
+100, etc). Even more, each university has implemented this mutated system by
+its own, so there's not a universal marking system in Ukrainian high schools.
+
+## TROUBLESHOOTING ABOUT ECTS IN UKRAINE
+
+There's still one more problem in Ukrainian educational area about ECTS. Even
+if Ukraine did implement it right - there could happen some other troubles.
+For instance, the problem of divisioning in the ECTS distribution. In Europe,
+there's a good practice of pre-building groups of students in amount that fit
+to the ECTS ranges in distribution (it means - they could be integers when the
+whole amount of students is divided by 10%, 25%, etc). Though, this practice
+will not predict all possible troubles, such as amount of students in F and FX
+ranges (which are not percentaged). If so, there could happen a situation when
+the ECTS ranges would not be integers (e.g., 5.4 'students' in 'A' range). It
+is not a valid distribution, so it requires some changes for the basic ECTS
+distribution. The aim of such changes is to minimize the level of deviations
+from the basic ECTS distribution (minimize the 'collisions').
+
+## ABOUT MAREVO
+
+The MAREVO project is a tool that determined for help in implementing the ECTS
+in Ukraine. It allows user to build a valid ECTS distrubition and choose a way
+of minimizing deviations. This programme also supports the national 5-mark
+system of Ukraine and could be extended with any other marking system that's
+compatible with the 100-mark ECTS system.
+The name of MAREVO project means 'Marking Evolution', which was its first name
+when the programme was just a part of scientific work.
+
+## THE COLLISION SOLVING ALGORITHM (CSA)
+
+@TODO: Make a description of CSA
+
+## AUTHORS
+
+* Oleksandr Kyrylchuk (Bartash): Software developer and the author if this
+  application;
+
+* Sergiy Shamov: Associate professor in Kharkiv Banking Institute, one of the
+  authors of the CSA;
+
+* Oleksandr Khodyrev: Senior lecturer in Kharkiv Banking Institute, one of the
+  authors of the CSA.
+
+
+## LICENSE
+
+Copyright (c) 2015, Oleksandr Kyrylchuk, Sergiy Shamov, Oleksandr Khodyrev
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+    * Redistributions of source code must retain the above copyright
+      notice, this list of conditions and the following disclaimer.
+    * Redistributions in binary form must reproduce the above copyright
+      notice, this list of conditions and the following disclaimer in the
+      documentation and/or other materials provided with the distribution.
+    * Neither the name of the <organization> nor the
+      names of its contributors may be used to endorse or promote products
+      derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL <COPYRIGHT HOLDER> BE LIABLE FOR ANY
+DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
